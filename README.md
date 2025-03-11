@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,8 +18,8 @@
 
 ### Links
 
-- Live Site URL: [Weather App](https://weather-app-vue-ks.netlify.app/)
-- Solution URL: [Weather App](https://github.com/KSnape34/weather-app-vue-ks)
+- Live Site URL: [To-Do List](https://to-do-list-vue-vite-ks.netlify.app/)
+- Solution URL: [To-Do List](https://github.com/KSnape34/Todo-list-app-vue-vite-ks)
 
 ## My process
 
@@ -34,6 +33,7 @@
 - JavaScript
 - CSS Grid
 - Mobile-first workflow
+- LocalStorage
 
 
 ## Author
